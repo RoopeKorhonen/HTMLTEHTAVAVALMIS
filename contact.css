@@ -1,5 +1,5 @@
 body {
-    background-color: wheat;
+    background-color: #4bf5ff;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -7,7 +7,7 @@ body {
 nav {
     display: flex;
     flex-direction: row;
-    background-color: #212121;
+    background-color: #ff000f;
     height: 5em;
     margin-left: 1em;
     margin-right: 1em;
@@ -51,7 +51,7 @@ nav img {
 
 .nav-links-div div a:hover{
     color: black;
-    background-color: white;
+    background-color: #f378ff;
 }
 
 .center-div {
@@ -62,7 +62,7 @@ nav img {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    background-color: beige;
+    background-color: #f378ff;
     padding-bottom: 2em;
     margin-bottom: 10em;
 }

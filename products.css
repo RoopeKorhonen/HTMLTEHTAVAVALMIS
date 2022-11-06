@@ -1,5 +1,5 @@
 body {
-    background-color: wheat;
+    background-color: #4bf5ff;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -7,7 +7,7 @@ body {
 nav {
     display: flex;
     flex-direction: row;
-    background-color: #212121;
+    background-color: #ff000f;
     height: 5em;
     margin-left: 1em;
     margin-right: 1em;
@@ -67,7 +67,7 @@ nav img {
     flex-direction: column;
     justify-content: center;
     width: 50%;
-    background-color: beige;
+    background-color: #ff000f;
 }
 
 .products-header-container {
@@ -98,7 +98,7 @@ nav img {
 }
 
 .product {
-    background-color: white;
+    background-color: #f378ff;
 }
 
 .product h3 {
@@ -128,7 +128,7 @@ nav img {
     text-align: left;
     margin-left: 1em;
     margin-right: 1em;
-    background-color: #a0a0a0;
+    background-color: #f6f7ff;
 }
 
 @media (max-width: 800px) {

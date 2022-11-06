@@ -1,5 +1,5 @@
 body {
-    background-color: wheat;
+    background-color: #4bf5ff;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -7,7 +7,7 @@ body {
 nav {
     display: flex;
     flex-direction: row;
-    background-color: #212121;
+    background-color: #ff000f;
     height: 5em;
     margin-left: 1em;
     margin-right: 1em;
